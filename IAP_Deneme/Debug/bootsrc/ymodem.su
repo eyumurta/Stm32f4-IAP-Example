@@ -1,0 +1,5 @@
+../bootsrc/ymodem.c:231:10:UpdateCRC16	0	static
+../bootsrc/ymodem.c:257:10:Cal_CRC16	16	static
+../bootsrc/ymodem.c:277:9:CalcChecksum	0	static
+../bootsrc/ymodem.c:296:19:Ymodem_Receive	72	static
+../bootsrc/ymodem.c:445:19:Ymodem_Transmit	64	static

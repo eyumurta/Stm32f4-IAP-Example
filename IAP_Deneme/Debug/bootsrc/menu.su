@@ -1,0 +1,3 @@
+../bootsrc/menu.c:75:6:SerialDownload	24	static
+../bootsrc/menu.c:116:6:SerialUpload	16	static
+../bootsrc/menu.c:144:6:Main_Menu	16	static,ignoring_inline_asm

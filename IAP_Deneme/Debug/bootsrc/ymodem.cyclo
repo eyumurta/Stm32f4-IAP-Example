@@ -1,0 +1,5 @@
+ymodem.c:231:10:UpdateCRC16	4
+ymodem.c:257:10:Cal_CRC16	2
+ymodem.c:277:9:CalcChecksum	2
+ymodem.c:296:19:Ymodem_Receive	29
+ymodem.c:445:19:Ymodem_Transmit	31

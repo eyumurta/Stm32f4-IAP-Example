@@ -1,0 +1,4 @@
+../bootsrc/common.c:59:6:Int2Str	20	static
+../bootsrc/common.c:87:10:Str2Int	20	static
+../bootsrc/common.c:161:6:Serial_PutString	0	static
+../bootsrc/common.c:177:19:Serial_PutByte	16	static
