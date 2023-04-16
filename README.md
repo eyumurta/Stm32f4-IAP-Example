@@ -27,6 +27,7 @@ uint8_t buffer[7];//password receive buffer
 ```
 
 Press user button while reset button and unpress the reset button.The mcu entering the boot mode and tera term showing like this.
+
 ![pass](https://user-images.githubusercontent.com/57114692/232314167-6314bdf3-b53d-431c-97d0-ce8399999eca.JPG)
 
 Enter the default password.If boot code accept your password showing like this.
